@@ -69836,11 +69836,11 @@ A.Tc.prototype={
 $0(){var s=0,r=A.a1(t.P)
 var $async$$0=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:s=4
-return A.V(A.fe("mailto:horizon@tarassul.sy"),$async$$0)
+return A.V(A.fe("mailto:info@horizon-tech.info"),$async$$0)
 case 4:s=b?2:3
 break
 case 2:s=5
-return A.V(A.ff("mailto:horizon@tarassul.sy",null),$async$$0)
+return A.V(A.ff("mailto:info@horizon-tech.info",null),$async$$0)
 case 5:case 3:return A.a_(null,r)}})
 return A.a0($async$$0,r)},
 $S:8}
