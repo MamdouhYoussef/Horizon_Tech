@@ -69766,7 +69766,7 @@ $0(){A.nC(this.a).kK()},
 $S:1}
 A.uf.prototype={
 I(a){var s=null,r="Horizon Tech is a software company, It was founded in Damascus, by its founder, Mr. Anas Jalilati. Our Services:  Web, Mobile & AI development and UX/UI Design done right. following an Agile approach, we are committed to creating innovative digital products from scratch or assisting your team remotely.",q=t.t
-q=a.G(t.w).f.a.a>=1024?A.f1(A.a([new A.ug(s),A.pF(new A.ma(r,s),6),new A.Fu("<|>",s),A.pF(new A.ma("Tools:\n Flutter\n React Native\n Vue.js\n React.js\n Angular\n Laravel\n Node.js\n Flask\n Google Colab\n SQL",s),3),A.pF(new A.ma("Languages:\n C++\n C#\n Dart\n Java\n Kotlin\n Swift\n Python\n JavaScript\n Php\n Ruby",s),2)],q),B.t,B.c6,B.ah):A.ch(A.a([A.f1(A.a([new A.ug(s),A.pF(new A.ma(r,s),1)],q),B.t,B.L,B.ah),A.ba(s,60,s)],q),B.t,B.L)
+q=a.G(t.w).f.a.a>=1024?A.f1(A.a([new A.ug(s),A.pF(new A.ma(r,s),6),new A.Fu("<|>",s),A.pF(new A.ma("Tools:\n Flutter\n React Native\n Vue.js\n ReactJs\n Angular\n Laravel\n Node.js\n Flask\n Google Colab\n Django",s),3),A.pF(new A.ma("Languages:\n C++\n C#\n Dart\n Java\n Kotlin\n Swift\n Python\n JavaScript\n Php\n Ruby",s),2)],q),B.t,B.c6,B.ah):A.ch(A.a([A.f1(A.a([new A.ug(s),A.pF(new A.ma(r,s),1)],q),B.t,B.L,B.ah),A.ba(s,60,s)],q),B.t,B.L)
 return A.bK(s,q,B.l,s,new A.av(0,1110,0,1/0),s,s,s,new A.an(0,40,0,40),s,s,s,s)}}
 A.ma.prototype={
 I(a){var s=null,r=this.c
@@ -69799,7 +69799,7 @@ r=A.bK(n,A.ve(A.ch(A.a([A.lJ(B.b4,A.a([A.bf(i,A.bp(n,n,n,n,n,n,n,n,n,n,n,30,n,n,
 j=r}return j}}
 A.ic.prototype={
 I(a){var s=null,r=a.G(t.w).f,q=A.eK(15),p=t.t
-return new A.c1(B.AU,A.bK(s,A.ch(A.a([A.ba(s,20,s),A.eS(!1,!0,A.is("assets/logo/logo 5.png",B.r,s,92),s,!0,s,s,s,s,s,s,s,s,s,new A.T9(a),s),A.ba(s,10,s),A.f1(A.a([A.ba(s,s,1),A.dq(s,A.cM(B.Ba,B.r,47.5),s,new A.Ta(a),s),A.dq(s,A.cM(B.Bb,B.r,47.5),s,new A.Tb(),s),A.dq(s,A.cM(B.dI,B.r,47.5),s,new A.Tc(),s),A.ba(s,s,10)],p),B.t,B.tO,B.ah),A.ba(s,20,s),A.bf("\xa9 2022 - 2023 / Horizon Tech",A.bp(s,s,B.r,s,s,s,s,s,s,s,s,16,s,s,B.T,s,s,!0,s,s,s,s,s,s,s,s),s,s)],p),B.t,B.Fq),B.l,s,s,new A.bX(new A.F(4278279314),s,s,q,s,s,B.S),s,300,s,s,s,s,r.a.a/1.3),s)}}
+return new A.c1(B.AU,A.bK(s,A.ch(A.a([A.ba(s,20,s),A.eS(!1,!0,A.is("assets/logo/logo 5.png",B.r,s,92),s,!0,s,s,s,s,s,s,s,s,s,new A.T9(a),s),A.ba(s,10,s),A.f1(A.a([A.ba(s,s,1),A.dq(s,A.cM(B.Ba,B.r,47.5),s,new A.Ta(a),s),A.dq(s,A.cM(B.Bb,B.r,47.5),s,new A.Tb(),s),A.dq(s,A.cM(B.dI,B.r,47.5),s,new A.Tc(),s),A.ba(s,s,10)],p),B.t,B.tO,B.ah),A.ba(s,20,s),A.bf("\xa9 2022 / Horizon Tech",A.bp(s,s,B.r,s,s,s,s,s,s,s,s,16,s,s,B.T,s,s,!0,s,s,s,s,s,s,s,s),s,s)],p),B.t,B.Fq),B.l,s,s,new A.bX(new A.F(4278279314),s,s,q,s,s,B.S),s,250,s,s,s,s,r.a.a/1.3),s)}}
 A.T9.prototype={
 $0(){A.cA(this.a).cA("/",t._)},
 $S:1}
@@ -70129,7 +70129,7 @@ A.a3F.prototype={
 $0(){A.nC(this.a).kK()},
 $S:1}
 A.yJ.prototype={
-I(a){var s,r,q=null,p=4283672536,o="Service Offerings",n="Our Strong Arenas",m=t.w,l=a.G(m).f.a.a>=1024?new A.ei(o,n,new A.F(p),q):new A.c1(B.a6,new A.ei(o,n,new A.F(p),q),q),k=t.ib
+I(a){var s,r,q=null,p=4283672536,o="Our Services",n="Our Strong Arenas",m=t.w,l=a.G(m).f.a.a>=1024?new A.ei(o,n,new A.F(p),q):new A.c1(B.a6,new A.ei(o,n,new A.F(p),q),q),k=t.ib
 if(a.G(m).f.a.a>=1024){$.Sa()
 s=J.n0(4,k)
 for(r=0;r<4;++r)s[r]=new A.rd(r,q)
@@ -70139,7 +70139,7 @@ for(r=0;r<4;++r)s[r]=new A.rd(r,q)
 m=A.ch(s,B.t,B.c6)}return A.bK(q,A.ch(A.a([l,m],t.t),B.t,B.L),B.l,q,new A.av(0,1110,0,1/0),q,q,q,new A.an(0,40,0,40),q,q,q,q)}}
 A.G_.prototype={
 I(a){var s=null,r=4290569983,q=4294967295,p="Hi, what is our work? ",o="Design. Development. Consultancy.",n=A.eK(10),m=A.at0(1,1),l=A.a5(102,188,230,255),k=t.SZ,j=t.t
-k=a.G(t.w).f.a.a>=1024?A.ch(A.a([A.bf(p,A.aP(a).RG.f.f1(new A.F(q)),s,s),A.ba(s,20,s),A.f1(A.a([B.HN,B.M5,B.HL,A.kT(A.aik(A.a([A.nz("Website"),A.nz("Mobile"),A.nz("Desktop"),A.nz("AI")],k),new A.Xx(a),1000),s,B.b_,!0,B.wb,s,s,B.a9)],j),B.t,B.L,B.hg),A.ba(s,30,s),A.bf(o,A.aP(a).RG.f.a12(new A.F(r),"Agne",B.w),s,s)],j),B.ba,B.bf):A.ch(A.a([A.bf(p,A.aP(a).RG.r.f1(new A.F(q)),s,s),A.ba(s,20,s),A.f1(A.a([B.HO,B.M6,B.HM,A.kT(A.aik(A.a([A.nz("Website"),A.nz("Mobile"),A.nz("Desktop"),A.nz("AI")],k),new A.Xy(a),1000),s,B.b_,!0,B.wc,s,s,B.a9)],j),B.t,B.L,B.ah),A.ba(s,30,s),A.bf(o,A.bp(s,s,new A.F(r),s,s,s,s,s,"Agne",s,s,12,s,s,B.dG,s,s,!0,s,s,s,s,s,s,s,s),s,s)],j),B.ba,B.bf)
+k=a.G(t.w).f.a.a>=1024?A.ch(A.a([A.bf(p,A.aP(a).RG.f.f1(new A.F(q)),s,s),A.ba(s,20,s),A.f1(A.a([B.HN,A.kT(A.aik(A.a([A.nz("Website"),A.nz("Mobile"),A.nz("Desktop"),A.nz("AI")],k),new A.Xx(a),1000),s,B.b_,!0,B.wb,s,s,B.a9),B.HL,B.M5],j),B.t,B.L,B.hg),A.ba(s,30,s),A.bf(o,A.aP(a).RG.f.a12(new A.F(r),"Agne",B.w),s,s)],j),B.ba,B.bf):A.ch(A.a([A.bf(p,A.aP(a).RG.r.f1(new A.F(q)),s,s),A.ba(s,20,s),A.f1(A.a([B.HO,A.kT(A.aik(A.a([A.nz("Website"),A.nz("Mobile"),A.nz("Desktop"),A.nz("AI")],k),new A.Xy(a),1000),s,B.b_,!0,B.wc,s,s,B.a9),B.HM,B.M6],j),B.t,B.L,B.ah),A.ba(s,30,s),A.bf(o,A.bp(s,s,new A.F(r),s,s,s,s,s,"Agne",s,s,12,s,s,B.dG,s,s,!0,s,s,s,s,s,s,s,s),s,s)],j),B.ba,B.bf)
 return new A.Ed(n,A.aro(A.bK(s,k,B.l,l,new A.av(0,1110,0,this.c.b*0.7),s,s,s,s,new A.an(40,0,40,0),s,s,1/0),m),s)}}
 A.Xx.prototype={
 $0(){A.cA(this.a).cA("/services",t._)},
